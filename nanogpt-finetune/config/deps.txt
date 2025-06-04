@@ -1,0 +1,11 @@
+pip install numpy
+pip install tiktoken
+pip install matplotlib
+pip install tqdm
+
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+pip install wandb
+
+pip install transformers  # If using Hugging Face transformers
+pip install numpy tiktoken torch --index-url https://download.pytorch.org/whl/cu118
